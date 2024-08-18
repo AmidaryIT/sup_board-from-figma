@@ -459,7 +459,7 @@ header::after {
   margin-bottom: 27px;
 }
 .footer__form {
-  width: 500px;
+  max-width: 500px;
 }
 .footer__form-input {
   background-color: transparent;
